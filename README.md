@@ -65,19 +65,23 @@ This confirmed that the password was successfully recovered.
 
 ### Johnny Settings
 
-![Johnny Settings](JTR-Johnny/johnny-settings.png)
+<img width="868" height="686" alt="Screenshot 2026-10-02 134923" src="https://github.com/user-attachments/assets/804371e9-c207-4eba-9ac9-11d70e7243da" />
+
 
 ### Hash File
 
-![Hash File](JTR-Johnny/hash-file.png)
+<img width="1875" height="871" alt="Screenshot 2026-10-02 135156" src="https://github.com/user-attachments/assets/454ecf82-89cf-4843-b43b-a61115621af8" />
+
 
 ### Attack Result
 
-![Attack Result](JTR-Johnny/attack-result.png)
+<img width="873" height="687" alt="Screenshot 2026-10-02 135249" src="https://github.com/user-attachments/assets/266222fc-5850-4376-9efe-de4bbacbba03" />
+
 
 ### PDF Opened
 
-![PDF Opened](JTR-Johnny/pdf-opened.png)
+<img width="507" height="715" alt="Screenshot 2026-10-02 135325" src="https://github.com/user-attachments/assets/87029ae0-2ffa-4380-9467-cc27da8a65ad" />
+
 
 
 # Task 2 - Password Cracker
