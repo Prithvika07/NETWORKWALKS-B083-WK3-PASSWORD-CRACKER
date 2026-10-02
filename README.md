@@ -3,30 +3,46 @@ Week 3 Project at Networkwalks – PDF password auditing using JTR, Johnny, and 
 
 # PDF Password Auditing
 
-## About
+## Week 3 Project - Networkwalks
 
-This project is part of my cybersecurity training.
+This project was completed as part of my Week 3 cybersecurity
+project at **Networkwalks**.
 
-The project involved recovering passwords from three
-password-protected PDF files using different tools.
+The project focused on password auditing and password recovery
+using different tools.
 
-## Files and Tools
+## Company
+
+**Networkwalks**
+
+## Tools Used
+
+- John the Ripper (JTR)
+- Johnny
+- Password Cracker - Networkwalks
+- Hash Calculator - Networkwalks
+
+## Project Tasks
+
+Three password-protected PDF files were tested using the tools
+provided for the project.
 
 | PDF | Tool Used |
 |---|---|
-| My Locked PDF1.pdf | John the Ripper + Johnny |
-| PDF 2 | Networkwalks Tool |
-| PDF 3 | Networkwalks Tool |
+| PDF 1 | John the Ripper + Johnny |
+| PDF 2 | Password Cracker |
+| PDF 3 | Hash Calculator |
 
-## Task 1 - John the Ripper and Johnny
 
-For the first PDF, I used John the Ripper (JTR) and
-Johnny GUI.
+# Task 1 - John the Ripper and Johnny
 
-### Steps
+For the first PDF, I used **John the Ripper (JTR)** with
+the **Johnny GUI**.
+
+## Steps
 
 1. Installed John the Ripper on Windows.
-2. Installed Johnny GUI.
+2. Installed Johnny.
 3. Configured Johnny with the `john.exe` file.
 4. Extracted the password hash from the PDF.
 5. Saved the hash in a text file.
@@ -35,9 +51,9 @@ Johnny GUI.
 8. Checked the result.
 9. Used the recovered password to open the PDF.
 
-### Result
+## Result
 
-The password audit was completed successfully.
+The password was successfully recovered.
 
 The result showed:
 
@@ -45,65 +61,82 @@ The result showed:
 
 This confirmed that the password was successfully recovered.
 
-### Screenshots
+## Screenshots
 
-![Johnny Settings](JTR/johnny-settings.png)
+### Johnny Settings
 
-![Hash File](JTR/hash-file.png)
+![Johnny Settings](JTR-Johnny/johnny-settings.png)
 
-![Attack Result](JTR/attack-result.png)
+### Hash File
 
-![PDF Opened](JTR/pdf-opened.png)
+![Hash File](JTR-Johnny/hash-file.png)
 
+### Attack Result
 
-## Task 2 - Networkwalks Tool
+![Attack Result](JTR-Johnny/attack-result.png)
 
-For the second PDF, I used the Networkwalks tool provided
-as part of the training.
+### PDF Opened
 
-The PDF was processed using the tool and the password
-was successfully recovered.
-
-### Result
-
-The recovered password was tested with the PDF to verify
-that it could be opened successfully.
-
-### Screenshot
-
-![Networkwalks Result](Networkwalks-Tool/file2-result.png)
+![PDF Opened](JTR-Johnny/pdf-opened.png)
 
 
-## Task 3 - Networkwalks Tool
+# Task 2 - Password Cracker
 
-For the third PDF, I again used the Networkwalks tool
-provided as part of the training.
+For the second PDF, I used the **Password Cracker** tool
+provided by **Networkwalks**.
 
-The password was recovered and verified by opening the
-protected PDF.
+The password-protected PDF was processed using the tool and
+the result was checked.
 
-### Result
+## Result
 
-The password recovery was successful.
+The password was successfully recovered and verified with
+the PDF.
 
-### Screenshot
+## Screenshot
 
-![Networkwalks Result](Networkwalks-Tool/file3-result.png)
+![Password Cracker Result](Password-Cracker/password-cracker-result.png)
 
 
-## What I Learned
+# Task 3 - Hash Calculator
+
+For the third PDF, I used the **Hash Calculator** tool
+provided by **Networkwalks**.
+
+The PDF was processed using the tool and the generated
+hash information was checked as part of the password
+auditing task.
+
+## Result
+
+The required hash information was successfully generated
+using the tool.
+
+## Screenshot
+
+![Hash Calculator Result](Hash-Calculator/hash-calculator-result.png)
+
+
+# What I Learned
 
 - Basic password auditing concepts
 - How John the Ripper works
 - How Johnny provides a graphical interface for JTR
-- How password hashes are used during password auditing
-- How different tools can be used for password recovery
-- How to verify a recovered password
+- How password hashes are used in password auditing
+- How to use the Password Cracker tool
+- How to use the Hash Calculator tool
+- How to verify password recovery results
 
-## Conclusion
+
+# Conclusion
 
 This project helped me understand the basic process of
-password auditing and password recovery.
+password auditing and the use of different cybersecurity
+tools.
 
-All testing was performed as part of my cybersecurity
-training using the provided PDF files and tools.
+I also learned how different tools can be used to work
+with password-protected files and password-related hash
+information.
+
+This project was completed as part of my Week 3 cybersecurity
+training at **Networkwalks**.
