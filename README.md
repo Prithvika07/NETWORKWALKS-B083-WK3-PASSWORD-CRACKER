@@ -158,4 +158,22 @@ The password was successfully recovered and the PDF was opened and viewed succes
 <img width="508" height="662" alt="Screenshot 2026-10-03 112205" src="https://github.com/user-attachments/assets/12d04d19-f018-41a6-ac00-31ee5ad9d800" />
 
 
+# Conclusion
 
+This project helped me understand the basic process of
+password auditing and the use of different cybersecurity
+tools.
+
+I also learned how different tools can be used to work
+with password-protected files and password-related hash
+information.
+
+This project was completed as part of my Week 3 cybersecurity
+training at **Networkwalks**.
+
+## Author
+
+**Prithvika**
+
+Student | Cybersecurity Enthusiast
+Linkedin: www.linkedin.com/in/prithvikas07
