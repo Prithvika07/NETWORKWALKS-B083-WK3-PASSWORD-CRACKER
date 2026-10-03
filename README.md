@@ -82,65 +82,80 @@ This confirmed that the password was successfully recovered.
 
 <img width="507" height="715" alt="Screenshot 2026-10-02 135325" src="https://github.com/user-attachments/assets/87029ae0-2ffa-4380-9467-cc27da8a65ad" />
 
+# Task 2 - PDF 2 - Networkwalks Tools
 
+For the second PDF, I used the tools provided by **Networkwalks**.
 
-# Task 2 - Password Cracker
+The process involved two tools:
 
-For the second PDF, I used the **Password Cracker** tool
-provided by **Networkwalks**.
+- **Hash Calculator**
+- **Password Cracker**
 
-The password-protected PDF was processed using the tool and
-the result was checked.
+## Steps
 
-## Result
-
-The password was successfully recovered and verified with
-the PDF.
-
-## Screenshot
-
-![Password Cracker Result](Password-Cracker/password-cracker-result.png)
-
-
-# Task 3 - Hash Calculator
-
-For the third PDF, I used the **Hash Calculator** tool
-provided by **Networkwalks**.
-
-The PDF was processed using the tool and the generated
-hash information was checked as part of the password
-auditing task.
+1. Selected the second password-protected PDF.
+2. Used the **Hash Calculator** provided by Networkwalks to generate the hash value of the PDF.
+3. Copied the generated hash value.
+4. Used the **Password Cracker** tool provided by Networkwalks.
+5. Entered the required hash information into the Password Cracker.
+6. Recovered the password.
+7. Used the recovered password to open and view the PDF.
 
 ## Result
 
-The required hash information was successfully generated
-using the tool.
+The password was successfully recovered and the PDF was opened and viewed successfully.
 
-## Screenshot
+## Screenshots
 
-![Hash Calculator Result](Hash-Calculator/hash-calculator-result.png)
+### Hash Calculator
 
-
-# What I Learned
-
-- Basic password auditing concepts
-- How John the Ripper works
-- How Johnny provides a graphical interface for JTR
-- How password hashes are used in password auditing
-- How to use the Password Cracker tool
-- How to use the Hash Calculator tool
-- How to verify password recovery results
+<img width="1103" height="901" alt="Screenshot 2026-10-03 110220" src="https://github.com/user-attachments/assets/dc98824b-06e6-4fb1-afce-5f2a8bd55c6e" />
 
 
-# Conclusion
+### Password Cracker
 
-This project helped me understand the basic process of
-password auditing and the use of different cybersecurity
-tools.
+<img width="560" height="716" alt="Screenshot 2026-10-03 110539" src="https://github.com/user-attachments/assets/07b0c141-c29a-463b-8594-670337e6b58e" />
 
-I also learned how different tools can be used to work
-with password-protected files and password-related hash
-information.
 
-This project was completed as part of my Week 3 cybersecurity
-training at **Networkwalks**.
+### PDF Opened
+
+<img width="500" height="702" alt="Screenshot 2026-10-03 110653" src="https://github.com/user-attachments/assets/50afd6ca-f1e8-489b-b8b0-1f1ff859e39b" />
+
+
+
+# Task 3 - PDF 3 - Networkwalks Tools
+
+For the third PDF, I used the **Hash Calculator** and **Password Cracker** tools provided by **Networkwalks**.
+
+## Steps
+
+1. Selected the third password-protected PDF.
+2. Used the **Hash Calculator** provided by Networkwalks to generate the hash value of the PDF.
+3. Copied the generated hash value.
+4. Used the **Password Cracker** tool provided by Networkwalks.
+5. Entered the required hash information into the Password Cracker.
+6. Recovered the password.
+7. Used the recovered password to open and view the PDF.
+
+## Result
+
+The password was successfully recovered and the PDF was opened and viewed successfully.
+
+## Screenshots
+
+### Hash Calculator
+
+<img width="637" height="582" alt="Screenshot 2026-10-03 110942" src="https://github.com/user-attachments/assets/f3b2763f-32e1-436b-8940-927570a64be7" />
+
+
+### Password Cracker
+
+<img width="576" height="712" alt="Screenshot 2026-10-03 111112" src="https://github.com/user-attachments/assets/70ec3472-9df6-4f90-921b-762333578973" />
+
+
+### PDF Opened
+
+<img width="508" height="662" alt="Screenshot 2026-10-03 112205" src="https://github.com/user-attachments/assets/12d04d19-f018-41a6-ac00-31ee5ad9d800" />
+
+
+
